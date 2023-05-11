@@ -13,13 +13,12 @@ const Venues = () => {
             <p>Feel that best, Arrange the Best</p>
             <div class="grid-containers">
                 <div class="item1">
-                <img src="https://styleflyers.com/wp-content/uploads/2016/07/Fashion-Show-PSD-Flyer-Template-e1480335667816-372x537.jpg" alt="" width="200" height="333"/>
-                </div>
+                <img src ="https://res.cloudinary.com/hynomj8e0/image/upload/tnej5svvkaadopgrvlrf.png"/>               </div>
                 <div class="item2">
-                <img src="https://www.bellanaijastyle.com/wp-content/uploads/2023/01/ARISE-Fashin-Week-Flyer.jpg"/>
+                <img src="https://media-cdn.tripadvisor.com/media/photo-c/1280x250/0e/02/66/41/testing-wide-angle.jpg"/>
                 </div>
                 <div class="item3">
-                <img src="https://www.springtx.com/news-queue/news_images/2023_02_15_10_42_3896776.png"/>
+                <img src="https://www.casino.co.za/img/land-casino/emperors-palace.jpg"/>
                 </div> 
                 
 
