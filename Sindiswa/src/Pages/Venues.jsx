@@ -21,18 +21,6 @@ const Venues = () => {
                 <img src="https://www.casino.co.za/img/land-casino/emperors-palace.jpg"/>
                 </div> 
                 
-
-                {/* <div class="item4">
-                <img src="" alt="" width="200" height="333"/>
-                </div>
-                <div class="item5">
-                <img src="" alt="" width="200" height="333"/>
-                </div>
-
-
-                <div class="item6">
-                <img src="" alt="" width="200" height="333"/>
-                </div> */}
             </div>
 </div>
 
