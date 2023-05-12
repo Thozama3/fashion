@@ -17,7 +17,6 @@ function Header() {
             <NavDropdown.Item href="/aboutUs">AboutUs</NavDropdown.Item>
               <NavDropdown.Item href="/events">Events</NavDropdown.Item>
               <NavDropdown.Item href="/venues">Venues</NavDropdown.Item>
-              <NavDropdown.Item href="/partners">Partners</NavDropdown.Item>
               <NavDropdown.Item href="/thecollections">Thecollections</NavDropdown.Item>
               <NavDropdown.Item href="/newsletter">Newsletter</NavDropdown.Item>
             </NavDropdown>

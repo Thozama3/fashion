@@ -6,7 +6,6 @@ import {
 } from "react-router-dom";
 import Newsletter from './Pages/Newsletter';
 import Thecollections from './Pages/Thecollections';
-import Partners from './Pages/Partners';
 import Venues from './Pages/Venues';
 import Events from './Pages/Events';
 import AboutUs from './Pages/AboutUs';
@@ -28,10 +27,6 @@ const router = createBrowserRouter([
   {
     path: "/venues",
     element: <Venues/>,
-  },
-  {
-    path: "/partners",
-    element: <Partners/>,
   },
   {
     path: "/thecollections",
